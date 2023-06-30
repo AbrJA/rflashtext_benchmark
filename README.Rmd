@@ -6,4 +6,4 @@ output: rmarkdown::github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Coming soon!
+## Coming soon! (in progress)
